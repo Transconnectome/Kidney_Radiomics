@@ -1,0 +1,4 @@
+name: radiomics_extraction
+channels:
+  - conda-forge
+prefix: /opt/homebrew/Caskroom/miniforge/base/envs/radiomics_extraction

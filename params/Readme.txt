@@ -1,0 +1,2 @@
+"Params1.yaml" file follows original experiments from Gang-nam St.Mary's Hospital
+"Params2.yaml" file follows "Radiomics-guided deep neural networks stratify lung adenocarcinoma prognosis from CT scans (https://www.nature.com/articles/s42003-021-02814-7#Sec8)" 
